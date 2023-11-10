@@ -1,0 +1,27 @@
+.stand {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 20px;
+  align-items: start;
+  justify-content: space-between;
+
+  padding-right: 80px;
+}
+
+.inputs {
+  display: flex;
+  flex-direction: column;
+  gap: 48px;
+}
+
+.buttons {
+  display: flex;
+  flex-direction: column;
+  gap: 24px;
+}
+
+.checkboxes {
+  display: flex;
+  flex-direction: column;
+  gap: 36px;
+}
