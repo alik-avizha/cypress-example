@@ -1,7 +1,7 @@
 # cypress-example
 
 ## Description
-The project is a sample React application created to explore Cypress testing technology. It uses the following technologies:
+The project is a simple React application created to explore Cypress testing technology. It uses the following technologies:
 
 ## Technologies
 
